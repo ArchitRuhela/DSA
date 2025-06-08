@@ -63,5 +63,5 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li>We initialize j to start from the first element of the array nums. If the value is not equal we are going to keep it.</li>
 	<li> If the element we are on is equal to val, we are going to skip that element.</li>
 	<li>If the next element is not equal to val, then we are going to forcefully change the value of prev element whose value is equal to val to the not equal value.</li>
-	
+	<li>In the end, we are going to return i as we have to return the number of elements which are not equal to val and here i keeps track of the index where the last element is placed.</li>
 </p>
