@@ -56,3 +56,12 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>0 &lt;= nums[i] &lt;= 50</code></li>
 	<li><code>0 &lt;= val &lt;= 100</code></li>
 </ul>
+<h1>Solution:</h1>
+<p>
+	<li>In this question, we have to check if the element in the nums is equal to variable val having a value.</li>
+	<li>Now we initialised i = 0 so that we can keep track where  the value has to be placed.</li>
+	<li>We initialize j to start from the first element of the array nums. If the value is not equal we are going to keep it.</li>
+	<li> If the element we are on is equal to val, we are going to skip that element.</li>
+	<li>If the next element is not equal to val, then we are going to forcefully change the value of prev element whose value is equal to val to the not equal value.</li>
+	
+</p>
