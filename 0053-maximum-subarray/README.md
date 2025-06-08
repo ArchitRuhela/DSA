@@ -40,6 +40,6 @@
 <p>
 	<li>In this question we have to return the max subarray sum. so we are going to create two variables first one is the prviousMax and other is the currentMax and initialize both of them with the first element.</li>
 	<li>Further moving we are going to start the for loop from the index 1. In the previousMax we are going to check if the sum of prevMax and nums[i] is greater than nums[i] or not. If If yes, change the value of prevMax with the num max sum.</li>
-	<li>Now we are checking if the prevMax is greater than the currentMax or not if yes update the currentMax with the value of previousMax else it stays the sum.</li>
+	<li>Now we are checking if the prevMax is greater than the currentMax or not if yes update the currentMax with the value of previousMax else it stays the same.</li>
 	<li>At last return the currentMax sum.</li>
 </p>
