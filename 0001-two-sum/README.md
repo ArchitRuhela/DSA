@@ -39,3 +39,10 @@
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
+
+<h1>Solution : </h1>
+<p>
+	<li>We are solving this problem in only two steps, first we are using two pointers - one starts from i = 0(first index) and second starts from i = 1 (second index). </li>
+	<li>After the first step we will traverse the array using the two loops we discussed avove and check if the jth indexed element plus the ith indexed element sum is equal to target or not. </li>
+	<li>Since it is given in the question that a unique solution for each input exists then if you found  the target sum, you return the array of the two indices i.e., i and j using - return new int[]{i,j}.</li>
+</p>
