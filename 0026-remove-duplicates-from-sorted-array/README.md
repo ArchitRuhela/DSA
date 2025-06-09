@@ -52,3 +52,15 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+<h1>Solution :</h1>
+
+<ul>
+  <li>This problem has to be solved in three steps:
+    <ul>
+      <li>First, initialize the index where the next unique element should be placed.</li>
+      <li>Then, start from the first index and traverse the whole array. If the current element is different from the last unique element, increment <code>i</code> and copy the unique element to the front.</li>
+      <li>Finally, return the count of unique elements plus 1 for length, as the array uses zero-based indexing.</li>
+    </ul>
+  </li>
+</ul>
