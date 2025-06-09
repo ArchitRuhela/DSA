@@ -33,3 +33,15 @@
 	<li><code>nums</code> contains <strong>distinct</strong> values sorted in <strong>ascending</strong> order.</li>
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<h1>Solution : </h1>
+<ul>
+	<li>In this problem we have to find the index where the target is found and if the target is not in the array, then we have to return the index where the target would be placed if inserted in order.</li>
+	<li>Here we use three conditions to check for the above situations:-
+	<ol>
+		<li>First, we traverse the whole array and check if the target is found. If yes we return the index of that element.</li>
+		<li>If the target is not found, then we check if the element in the array we are traversing on is greater than the target. If yes, then return the index the of the current element on which we are checking the condition on.</li>
+		<li>Otherwise, return the index of last element, i.e., the element is larger than all the elements and will we inserted at the last position.</li>
+	</ol>
+	</li>
+</ul>
