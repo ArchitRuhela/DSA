@@ -1,5 +1,5 @@
 # DSA
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions that i am doing while practicing DSA. I am doing the questions on the day i finish learning about any approach or method of doing that question.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
