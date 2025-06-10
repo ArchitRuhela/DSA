@@ -48,12 +48,12 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 <p><strong>Follow up: </strong>Can you come up with an algorithm that runs in <code>O(m + n)</code> time?</p>
 
 <h1>Solution : </h1>
-<p><li>
+<p><ol><li>
    <ul>
 	<li>This question merge sorted arrays is solved in two steps:- </li>
 	<li>In this, i points to the last element in nums1 and j points to the last element in nums2. Also k points to the last index in nums1.</li>
   </ul></li>
   <li>Each time nums1[i] and nums2[j] are compared and the largest element out of them is placed at the last position. And after each iteration we decrement the corresponding pointer i or j and k so that we can now move to the previous position of current position and compare another pair and place the second largest.</li>
   <li>If there are still elements left in nums2, just copy them in nums1. No need to copy remaining nums1 elements, they are already in correct position.</li>
-  <li>In the end you will get the sorted merged array as the solution after all the iterations and loops.</li>
+  <li>In the end you will get the sorted merged array as the solution after all the iterations and loops.</li></ol>
 </p>
