@@ -40,3 +40,15 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+<h1>Solution : </h1>
+<p>
+	<ul>
+		<li>First we created a hashSet in the question as it stores unique elements only.</li>
+		<li>Now we start traversing the array and we start checking if the element is already in the hashSet or not
+		<ol>
+			<li>If yes, then that's the answer and we return true.</li>
+			<li>Else we add that element to the set and continue our traversal.</li>
+		</ol></li>
+	</ul>
+</p>
