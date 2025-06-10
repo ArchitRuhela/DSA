@@ -41,5 +41,6 @@
 				<li>Else put the index of that element in the hashMap and continue traversing the array.</li>
 			</ul></li>
 		</ol></li>
+		<li>Note that the HashMap stores key-value pairs and in our hashMap the key is the value of the indices in the array and the value of key is the value of that particular index.</li>
 	</ul>
 </p>
