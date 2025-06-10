@@ -31,6 +31,7 @@
 	<li><code>0 &lt;= k &lt;= 10<sup>5</sup></code></li>
 </ul>
 
+<h1>Solution : </h1>
 <p>
 	<ul>
 		<li>The first part in my code which is commented out will give TLE as the size of array increases.</li>
