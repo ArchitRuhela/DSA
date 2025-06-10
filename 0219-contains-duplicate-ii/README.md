@@ -30,3 +30,16 @@
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>0 &lt;= k &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+<p>
+	<ul>
+		<li>The first part in my code which is commented out will give TLE as the size of array increases.</li>
+		<li>For the second attempt, we reate a HashMap to store the most recent index of each element first and then start traversing  the array one by one.<ol>
+			<li>As we start traversing, we create a variable which keeps track of the current element. </li>
+			<li>Now we check if the element we are currently on has been seen before has been seen before or not and if the difference between current index and last index is less than or equal to k or not.<ul>
+				<li>If yes, return true.</li>
+				<li>Else put the index of that element in the hashMap and continue traversing the array.</li>
+			</ul></li>
+		</ol></li>
+	</ul>
+</p>
