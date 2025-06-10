@@ -35,3 +35,12 @@
 	<li><code>-3 * 10<sup>4</sup> &lt;= nums[i] &lt;= 3 * 10<sup>4</sup></code></li>
 	<li>Each element in the array appears twice except for one element which appears only once.</li>
 </ul>
+
+<h1>Solution : </h1>
+<p>
+	<ul>
+		<li>In this problem, we are given an array in which each element appears twice except for one.</li>
+		<li>So to find that one element, we are using XOR operator because two similar numbers or entities if XOR together, they cancel out each other and return zero.</li>
+		<li>Following this, all double elements will cancel out each other and only the single one will reamin and at the end we save that one element in the answer variable and return answer which contains that one element which appears only one time.</li>
+	</ul>
+</p>
