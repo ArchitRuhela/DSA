@@ -29,3 +29,19 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<h1>Solution : </h1>
+<ol>
+	<li>Initialize minimum to the largest possible value, so any price in the array which is smaller than it can replace it.</li>
+	<li>Initialize maxProfit to 0 as no transactions have been made yet.</li>
+	<li>
+		Now start traversing the prices array
+		<ul>
+			<li>If the current price is lower than the previously recorded minimum, update the current minimum.</li>
+			<li>Update min to the current price since it's the new minimum.</li>
+			<li>If current price is not less than the minimum, then calculate the potential profit.</li>
+			<li> Update maxProfit if the current profit is higher than the previously recorded max profit.</li>
+		</ul>
+	</li>
+	<li>Return the best maxProfit that could be made from buying at the lowest and selling at the highest after that.</li>
+</ol>
