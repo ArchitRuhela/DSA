@@ -15,6 +15,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArchitRuhela/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ArchitRuhela/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ArchitRuhela/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ArchitRuhela/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | ------- |
 | [0001-two-sum](https://github.com/ArchitRuhela/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ArchitRuhela/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ArchitRuhela/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ArchitRuhela/DSA/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ArchitRuhela/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
