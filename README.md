@@ -11,6 +11,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0027-remove-element](https://github.com/ArchitRuhela/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ArchitRuhela/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ArchitRuhela/DSA/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/ArchitRuhela/DSA/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArchitRuhela/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArchitRuhela/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ArchitRuhela/DSA/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ArchitRuhela/DSA/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ArchitRuhela/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
