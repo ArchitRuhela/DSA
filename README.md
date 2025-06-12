@@ -18,6 +18,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0219-contains-duplicate-ii](https://github.com/ArchitRuhela/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ArchitRuhela/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0088-merge-sorted-array](https://github.com/ArchitRuhela/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ArchitRuhela/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,17 +44,20 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0217-contains-duplicate](https://github.com/ArchitRuhela/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArchitRuhela/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ArchitRuhela/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ArchitRuhela/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ArchitRuhela/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
