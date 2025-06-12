@@ -44,3 +44,24 @@ The third distinct maximum is 1.
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Can you find an <code>O(n)</code> solution?
+
+<h1>Solution : </h1>
+<p>
+	<ol>
+  <li><strong>TreeSet properties:</strong> The treeSet stores elements in <em>ascending order</em> and automatically removes <em>duplicates</em>.</li>
+
+  <li>In the first part, we iterate over each number in the input array:
+    <ul>
+      <li>Add the number to the TreeSet.</li>
+      <li>If the TreeSet size exceeds 3, we use <code>pollFirst()</code> to remove the <em>smallest</em> number — this ensures that we only keep the top 3 largest unique values.</li>
+    </ul>
+  </li>
+
+  <li>After processing all elements:
+    <ul>
+      <li>If TreeSet has exactly 3 elements, return we use <code>set.first()</code>, which gives the third maximum (smallest among the top 3 elements).</li>
+      <li>If TreeSet has less than 3 unique numbers, return <code>set.last()</code>, which gives the maximum.</li>
+    </ul>
+  </li>
+</ol>
+</p>
