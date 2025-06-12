@@ -23,3 +23,17 @@
 	<li><code>1 &lt;= nums1.length, nums2.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= nums1[i], nums2[i] &lt;= 1000</code></li>
 </ul>
+
+<h1> Solution : </h1>
+<p>
+	<ul>
+		<li>This question is solved in two parts:
+		<ol>
+			<li>At the start, you should create a hashset to store unique values.</li>
+			<li>Now, we are using two loops to iterate over the two arrays(nums1 and nums2) to check if the elements we are on, are equal or not. And if the elements are equal, we add it to the hashset we created.</li>
+			<li>Now create and array and remember the size of the array is same as that of the hashset.</li>
+			<li>In the second part, we are getting each element of the hashset and are adding it to  the array we created.</li>
+			<li>At last we get our intersection array as output.</li>
+		</ol></li>
+	</ul>
+</p>
