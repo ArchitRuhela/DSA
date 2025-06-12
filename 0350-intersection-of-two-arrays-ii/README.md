@@ -32,3 +32,17 @@
 	<li>What if <code>nums1</code>&#39;s size is small compared to <code>nums2</code>&#39;s size? Which algorithm is better?</li>
 	<li>What if elements of <code>nums2</code> are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?</li>
 </ul>
+
+<h1> Solution : </h1>
+<p>
+	<ul>
+		<li>This is the second part of the the intersection of two arrays problem. In the first part we had to store unique elements in the output array so we used hashset, but that is not the case here. We have to store the values as many times as they show in both arrays, so we can use arraylist here.</li>
+		<li>In this we check three conditions since we have to check each element of nums1 with each element of nums2:
+		<ol>
+			<li>If the nums1 element is smaller than nums2 element, then increase the current index of nums1.</li>
+			<li>If the nums1 element is greater than nums2 element, then increase the current index of nums2.</li>
+			<li>And if both are equal, then add that element to the arraylist we made.
+		</ol></li>
+		<li>When we have got our output, then we just have to create an array of the same size as arraylist and push all the elements which are in the arraylist to the array and hence get our output array.</li>
+	</ul>
+</p>
