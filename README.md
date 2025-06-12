@@ -19,6 +19,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0283-move-zeroes](https://github.com/ArchitRuhela/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ArchitRuhela/DSA/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0217-contains-duplicate](https://github.com/ArchitRuhela/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ArchitRuhela/DSA/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
