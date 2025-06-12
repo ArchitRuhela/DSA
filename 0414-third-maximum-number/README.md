@@ -47,6 +47,12 @@ The third distinct maximum is 1.
 
 <h1>Solution : </h1>
 <p>
+	<li>The time complexity of the below solution is O(n) because each insertion/removal is O(1) (due to small fixed size) and we do it for each of the n elements.</li>
+<li>
+	Also the Space complexity is also O(n) as the TreeSet holds at most 4 unique numbers, so it uses constant space.</li>
+</p>
+
+<p>
 	<ol>
   <li><strong>TreeSet properties:</strong> The treeSet stores elements in <em>ascending order</em> and automatically removes <em>duplicates</em>.</li>
 
