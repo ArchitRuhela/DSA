@@ -26,3 +26,13 @@
 	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
 	<li><code>nums</code> is sorted in a <strong>strictly increasing</strong> order.</li>
 </ul>
+
+<h1>Solution : </h1>
+<p>
+	<ul>
+		<li>The <strong>sortedArrayToBST</strong> function starts building the tree from 0 to nums.length - 1</li>
+		<li>In the <strong>build</strong> function, first is the base case which is if left index exceeds right, no element to add</li>
+		<li>Then we select the middle element of the current subarray as the root node to maintain balance.</li>
+		<li>After that we create a new TreeNode with the middle element as the root and recursively build the left and right subtrees ensuring that the height difference between left and right subtrees remains minimal (balanced tree).</li>
+	</ul>
+</p>
