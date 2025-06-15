@@ -39,3 +39,14 @@ Total profit is 4.
 	<li><code>1 &lt;= prices.length &lt;= 3 * 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= prices[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<h1>Solution : </h1>
+<p>
+	<ul>
+		<li>Loop through the price array and start from the second day, since we need to compare current days's price with the previous day's price.</li>
+		<li>Check if today's price is higher than yesterday's price, that means we could have bought yesterday and sold today. So we add the difference to our total profit.</li>
+		<li>And if the price dropped or stayed the same, we skip (no transaction)</li>
+		<li>Hence, at last we return the total profit.</li>
+		<li><strong>Note that this is a greedy approach, so the time complexity for this solution is O(n) and the space complexity is O(1).</strong></li>
+	</ul>
+</p>
