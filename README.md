@@ -88,4 +88,12 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArchitRuhela/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ArchitRuhela/DSA/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/ArchitRuhela/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
