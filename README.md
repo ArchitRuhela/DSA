@@ -94,6 +94,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | ------- |
 | [0326-power-of-three](https://github.com/ArchitRuhela/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ArchitRuhela/DSA/tree/master/0342-power-of-four) |
+| [3830-find-closest-person](https://github.com/ArchitRuhela/DSA/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
