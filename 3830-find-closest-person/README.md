@@ -78,7 +78,6 @@
 </ul>
 
 <h1>Solution: </h1>
-<hr>
 <p>This is a basic question, here we just have to find the closest person to person 3 in between person 1 and 2. So we just take the abstract difference of both with the person 3 and use the if-else condition to find the minimum in between them.
 <Ol>
 	<li>If the difference between person 1 and 3 is less than person 2 and 3, then return 1.</li>
