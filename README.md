@@ -22,6 +22,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ArchitRuhela/DSA/tree/master/0414-third-maximum-number) |
+| [0474-ones-and-zeroes](https://github.com/ArchitRuhela/DSA/tree/master/0474-ones-and-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0053-maximum-subarray](https://github.com/ArchitRuhela/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArchitRuhela/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArchitRuhela/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0474-ones-and-zeroes](https://github.com/ArchitRuhela/DSA/tree/master/0474-ones-and-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | ------- |
 | [0326-power-of-three](https://github.com/ArchitRuhela/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ArchitRuhela/DSA/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/ArchitRuhela/DSA/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
