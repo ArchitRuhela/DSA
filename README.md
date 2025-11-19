@@ -23,6 +23,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ArchitRuhela/DSA/tree/master/0414-third-maximum-number) |
 | [0474-ones-and-zeroes](https://github.com/ArchitRuhela/DSA/tree/master/0474-ones-and-zeroes) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ArchitRuhela/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0219-contains-duplicate-ii](https://github.com/ArchitRuhela/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ArchitRuhela/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 | [0349-intersection-of-two-arrays](https://github.com/ArchitRuhela/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArchitRuhela/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ArchitRuhela/DSA/tree/master/0414-third-maximum-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ArchitRuhela/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions that i am doing while practicing DSA. I am do
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/ArchitRuhela/DSA/tree/master/0474-ones-and-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ArchitRuhela/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
